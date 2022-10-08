@@ -1,0 +1,116 @@
+<scheme name="ZEN Theme" version="142" parent_scheme="Darcula">
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+    <option name="CONSOLE_LINE_SPACING" value="1.2" />
+    <colors>
+        <option name="CARET_COLOR" value="ffcb6b" />
+        <option name="CARET_ROW_COLOR" value="90b10" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="90b10" />
+        <option name="GUTTER_BACKGROUND" value="f111a" />
+        <option name="LINE_NUMBERS_COLOR" value="4b526d" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b7bbcdca" />
+        <option name="METHOD_SEPARATORS_COLOR" value="b7bbcdca" />
+        <option name="SELECTION_BACKGROUND" value="717cb450" />
+        <option name="SEPARATOR_BELOW_COLOR" value="" />
+        <option name="ScrollBar.hoverThumbColor" value="7b83a3" />
+        <option name="ScrollBar.thumbColor" value="7b83a3" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="717cb450" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="717cb450" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="717cb450" />
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="717cb450" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="717cb450" />
+        <option name="WHITESPACES" value="b7bbcdca" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="717cb450" />
+    </colors>
+    <attributes>
+        <option name="CONSOLE_CYAN_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="afd7" />
+                <option name="BACKGROUND" value="154f4f" />
+            </value>
+        </option>
+        <option name="CONSOLE_GREEN_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="c3e88d" />
+                <option name="BACKGROUND" value="39511f" />
+            </value>
+        </option>
+        <option name="CONSOLE_RED_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="ff5371" />
+                <option name="BACKGROUND" value="772e2c" />
+            </value>
+        </option>
+        <option name="CONSOLE_YELLOW_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="ffcb6c" />
+                <option name="BACKGROUND" value="5c4f17" />
+            </value>
+        </option>
+        <option name="CTRL_CLICKABLE">
+            <value>
+                <option name="FOREGROUND" value="ffcb6b" />
+                <option name="EFFECT_COLOR" value="ffcb6b" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DELETED_TEXT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="b7bbcd" />
+                <option name="BACKGROUND" value="450505" />
+                <option name="EFFECT_COLOR" value="c3c3c3" />
+                <option name="EFFECT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="FOLDED_TEXT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="b7bbcd" />
+                <option name="BACKGROUND" value="3a3a3a" />
+            </value>
+        </option>
+        <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="ffcb6b" />
+                <option name="EFFECT_COLOR" value="ffcb6b" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="HTML_CODE">
+            <value />
+        </option>
+        <option name="HYPERLINK_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="ffcb6b" />
+                <option name="EFFECT_COLOR" value="ffcb6b" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="INJECTED_LANGUAGE_FRAGMENT">
+            <value>
+                <option name="BACKGROUND" value="ff0019" />
+            </value>
+        </option>
+        <option name="KOTLIN_LABEL">
+            <value />
+        </option>
+        <option name="LINE_FULL_COVERAGE">
+            <value>
+                <option name="FOREGROUND" value="4b526d" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="MATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="3b514d" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="TEXT">
+            <value>
+                <option name="FOREGROUND" value="b7bbcd" />
+                <option name="BACKGROUND" value="f111a" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+    </attributes>
+</scheme>
